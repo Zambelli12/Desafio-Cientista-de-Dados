@@ -3,7 +3,7 @@ Conclusão do desafio indicium
 
 
 Projeto de Previsão de Nota IMDB com Random Forest
-Este projeto utiliza um notebook Jupyter (LH_CD_Felipe_Zambelli (1).ipynb) para analisar, processar e modelar dados de filmes. O objetivo principal é treinar um modelo de Machine Learning (Random Forest Regressor) capaz de prever a nota do IMDB de um filme com base em seus dados.
+Este projeto utiliza um notebook Jupyter (LH_CD_Felipe_Zambelli.ipynb) para analisar, processar e modelar dados de filmes. O objetivo principal é treinar um modelo de Machine Learning (Random Forest Regressor) capaz de prever a nota do IMDB de um filme com base em seus dados.
 
 O notebook carrega um conjunto de dados brutos (df_final.csv), realiza o pré-processamento necessário, treina o modelo e avalia seu desempenho usando a métrica RMSE (Root Mean Squared Error). Ao final da execução, o modelo treinado é salvo no arquivo random_forest_imdb_model.pkl para uso futuro.
 
@@ -11,6 +11,7 @@ O notebook carrega um conjunto de dados brutos (df_final.csv), realiza o pré-pr
 Existem duas maneiras principais de executar este notebook:
 
 Google Colab (Recomendado para facilidade de uso e ambiente pré-configurado).
+Basta colocar o arquivo (df_final.csv) -> df com os dados e executar todo o codigo apertando Crtl + F9
 
 Ambiente Local (Requer instalação manual das bibliotecas).
 
