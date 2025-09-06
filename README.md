@@ -7,6 +7,7 @@ Este projeto utiliza um notebook Jupyter (LH_CD_Felipe_Zambelli.ipynb) para anal
 
 O notebook carrega um conjunto de dados brutos (df_final.csv), realiza o pré-processamento necessário, treina o modelo e avalia seu desempenho usando a métrica RMSE (Root Mean Squared Error). Ao final da execução, o modelo treinado é salvo no arquivo random_forest_imdb_model.pkl para uso futuro.
 
+OBS: o arquivo LH_CD_Felipe_Zambelli_00.ipynb foi um notebook que utilizei para anlisar e ter as minhas primeiras impressões, de forma a não ficar tão poluido descidi criar outro LH_CD_Felipe_Zambelli.ipynb para responder de forma mais objetivas as demandas do projeto. No notebook LH_CD_Felipe_Zambelli_00.ipynb, foi o ambiente na qual utilizei para realizar o tratamento dos dados faltantes.
 🚀 Como Executar o Projeto
 Existem duas maneiras principais de executar este notebook:
 
